@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  height: 90vh;
+  background-color:black;
+
+}
+code{
+  font-family: Arial, Helvetica, sans-serif,'Courier New', Courier, monospace;
+}
+
